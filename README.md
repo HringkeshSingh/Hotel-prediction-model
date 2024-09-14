@@ -111,6 +111,3 @@ The model's performance is evaluated using:
 
 Contributions to improve the model are welcome. Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
