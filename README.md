@@ -33,8 +33,9 @@ This project implements a machine learning model to predict hotel booking cancel
    ```
    python -m venv venv
    source venv/bin/activate
-  On Windows,
-  ```
+   ```
+   On Windows,
+   ```
     use `venv\Scripts\activate`
    ```
 
