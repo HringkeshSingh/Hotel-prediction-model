@@ -25,7 +25,7 @@ This project implements a machine learning model to predict hotel booking cancel
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/hotel-booking-cancellation-model.git
+   git clone https://github.com/HringkeshSingh/hotel-prediction-model.git
    cd hotel-booking-cancellation-model
    ```
 
